@@ -25,7 +25,7 @@
   <a href="https://github.com/faheemshahzad" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:faheemshahzad@example.com">
+  <a href="mailto:khanfaheemnf@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://twitter.com/faheemshahzad" target="_blank">
