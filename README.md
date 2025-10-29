@@ -7,7 +7,7 @@
 
 ---
 
-###**About Me**
+**About Me**
 -  I’m an **IT Graduate** passionate about **Artificial Intelligence, Machine Learning & Data Science**  
 -  Currently exploring **Deep Learning, Data Analytics & Python for AI**  
 -  I’m improving my skills in **Web Development** and **Data Visualization**  
